@@ -24,7 +24,7 @@ E as informações dadas pelo chatbot seria enviada ao funcionario porto contand
 
 Também poderia melhorar a segurança e acesso aos dados.
 
-Informações extras:
+Informações extras para teste na API:
 
 Professor irei encaminhar alguns usuarios para o senhor testar. Já que vimos que como prototipo ter uma tela de cadastro seria indiferente. Pois a porto já sabe fazer isso, então criamos apenas o ChatBot. Aqui vou colocar alguns usuarios para o senhor testar.
 
